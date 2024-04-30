@@ -1,2 +1,2 @@
 # Update this file to run your own code
-node index.js
+npm install big-integer && node index.js
